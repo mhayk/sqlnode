@@ -1,0 +1,17 @@
+{
+  "name": "sqlnode",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:mhayk/sqlnode.git",
+  "author": "Mhayk Whandson <mhayk@kaumediagroup.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pg": "^7.14.0",
+    "pg-hstore": "^2.3.3",
+    "sequelize": "^5.21.2"
+  },
+  "devDependencies": {
+    "sequelize-cli": "^5.5.1"
+  }
+}
